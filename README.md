@@ -14,8 +14,6 @@ The program is facilitated by **[Yimatt Technologies](https://yimatt.com)**.
 
 For inquiries: **[contact@yimatt.com](mailto:contact@yimatt.com)**
 
-Course Administrator: **IMANI M. Y**
-
 ---
 
 # 🎯 Program Objectives
@@ -137,20 +135,6 @@ Participants completing this program will:
 - Be prepared for entry-level SQL technical interviews
 - Understand database theory beyond surface-level syntax
 - Apply SQL confidently in web development environments
-
----
-
-# 📬 Contact & Administration
-
-Facilitated by: **[Yimatt Technologies](https://yimatt.com)**
-
-Email: **[contact@yimatt.com](mailto:contact@yimatt.com)**
-
-Course Administrator: **IMANI M.Y**
-
----
-
-For enrollment details, tutoring options, or institutional partnerships, please reach out via email.
 
 ---
 
