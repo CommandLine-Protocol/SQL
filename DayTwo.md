@@ -248,35 +248,23 @@ AND (age > 30 OR purchases > 8);
 
 If you remove parentheses, the logic changes.
 
----
-
 # ⏱ Hour 3 – Practice Set (Solve Without Looking at Answers)
-
----
 
 ### 1️⃣ Beginner
 
 Find users younger than 25.
 
----
-
 ### 2️⃣ Beginner+
 
 Find users from Germany or Canada.
-
----
 
 ### 3️⃣ Intermediate
 
 Find users aged between 25 and 35 who are from the UK.
 
----
-
 ### 4️⃣ Intermediate+
 
 Find users whose name starts with 'C'.
-
----
 
 ### 5️⃣ Advanced
 
@@ -286,8 +274,6 @@ Find users who:
 - Signed up after 2022
 - AND have more than 5 purchases
 
----
-
 ### 6️⃣ Advanced Logic
 
 Find users who:
@@ -295,8 +281,6 @@ Find users who:
 - Are from USA or UK
 - AND are younger than 30
 - BUT exclude those with 0 purchases
-
----
 
 # ⏱ Hour 4 – Real Job-Oriented Practice
 
@@ -307,8 +291,6 @@ Use:
 - [https://sqlzoo.net/](https://sqlzoo.net/)
 
 Focus only on filtering problems today.
-
----
 
 # 🧠 Academic Deep Dive (Important Concept)
 
@@ -340,37 +322,21 @@ It uses a B-tree structure to jump directly to relevant rows.
 
 We go deeper into indexing on Day 6.
 
----
-
 # 🧪 Test Questions (Beginner → Advanced)
-
----
 
 ### 1️⃣ What is the difference between `AND` and `OR` in terms of result set size?
 
----
-
 ### 2️⃣ Why does `= NULL` not work?
-
----
 
 ### 3️⃣ Write a query to find users whose name contains the letter 'a' anywhere.
 
----
-
 ### 4️⃣ Explain how parentheses change logical evaluation in SQL.
 
----
-
 ### 5️⃣ If a table has 1 million rows and no index, what happens internally when you filter by age?
-
----
 
 ### 6️⃣ Advanced
 
 Explain how SQL’s three-valued logic (TRUE, FALSE, UNKNOWN) affects NULL comparisons.
-
----
 
 # 🎯 End of Day 2 Goals
 
@@ -381,8 +347,6 @@ You should now:
 ✔ Understand Boolean logic in queries
 ✔ Know how NULL behaves
 ✔ Think like a backend engineer
-
----
 
 # 🚀 Mini Challenge (Simulated Startup Scenario)
 
