@@ -1,4 +1,4 @@
-**Day 3** is where SQL becomes **job-powerful**. This is the day interviewers care about most. You move from “retrieving rows” → to **analyzing data**.
+**Day 3** is where SQL becomes **job-powerful**. This is the day interviewers care about most. You move from “retrieving rows” → to **analyzing data**. 💯
 
 # 🟢 DAY 3 – Aggregations (Critical for Jobs) (4 Hours)
 
