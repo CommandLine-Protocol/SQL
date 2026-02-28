@@ -10,10 +10,6 @@ The **High-Intensity SQL Boot Camp** is a one-week, academically grounded and in
 
 This boot camp balances **theory + applied practice**, ensuring students understand _why_ SQL works — not just how to write queries.
 
-The program is facilitated by **[Yimatt Technologies](https://yimatt.com)**.
-
-For inquiries: **[contact@yimatt.com](mailto:contact@yimatt.com)**
-
 ---
 
 # 🎯 Program Objectives
