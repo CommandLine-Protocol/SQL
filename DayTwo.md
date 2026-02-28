@@ -143,6 +143,12 @@ Names ending with 'e':
 WHERE name LIKE '%e';
 ```
 
+Names that contain the letter 'o'
+
+```sql
+WHERE name LIKE '%o%'
+```
+
 ---
 
 ### Case Sensitivity
@@ -280,7 +286,7 @@ Find users who:
 
 - Are from USA or UK
 - AND are younger than 30
-- BUT exclude those with 0 purchases
+- BUT exclude those with 8 purchases
 
 # ⏱ Hour 4 – Real Job-Oriented Practice
 
