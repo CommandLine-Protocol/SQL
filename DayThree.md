@@ -26,8 +26,6 @@ Count specific column:
 SELECT COUNT(purchases) FROM users;
 ```
 
-This counts only NON-NULL values.
-
 ---
 
 ## 2️⃣ SUM()
@@ -215,6 +213,16 @@ HAVING SUM(purchases) > 10;
 
 ```sql
 SELECT MAX(signup_year) FROM users;
+```
+
+---
+
+## 6️⃣ Every users who signed up in the most recent year
+
+```sql
+SELECT *
+FROM users
+WHERE signup_year = (SELECT MAX(signup_year) FROM users);
 ```
 
 ---
