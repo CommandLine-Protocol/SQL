@@ -217,7 +217,7 @@ SELECT MAX(signup_year) FROM users;
 
 ---
 
-## 6️⃣ Every users who signed up in the most recent year
+## 6️⃣ Every user who signed up in the most recent year
 
 ```sql
 SELECT *
