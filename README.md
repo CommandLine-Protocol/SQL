@@ -66,44 +66,44 @@ Real-world use cases include:
 
 # 📅 Program Structure (1 Week – High Intensity)
 
-### Day 1 – Database Fundamentals
+### [Day 1 – Database Fundamentals](./DayOne.md)
 
 - Relational databases & DBMS
 - Schema design basics
 - Data types
 - SELECT fundamentals
 
-### Day 2 – Filtering & Logical Operators
+### [Day 2 – Filtering & Logical Operators](./DayTwo.md)
 
 - WHERE, AND, OR
 - IN, BETWEEN, LIKE
 - NULL handling
 
-### Day 3 – Aggregation & Reporting
+### [Day 3 – Aggregation & Reporting](./DayThree.md)
 
 - COUNT, SUM, AVG
 - GROUP BY & HAVING
 - Business metric queries
 
-### Day 4 – JOIN Mastery
+### [Day 4 – JOIN Mastery](./DayFour.md)
 
 - INNER, LEFT, RIGHT JOIN
 - Relationship modeling
 - Multi-table queries
 
-### Day 5 – Subqueries & Nested Logic
+### [Day 5 – Subqueries & Nested Logic](./DayFive.md)
 
 - Subqueries in WHERE and FROM
 - Ranking & interview-style problems
 
-### Day 6 – Database Design & Indexing
+### [Day 6 – Database Design & Indexing](./DaySix.md)
 
 - Normalization principles
 - Constraints
 - Index fundamentals
 - Performance awareness
 
-### Day 7 – Capstone Project
+### [Day 7 – Capstone Project](./DaySeven.md)
 
 - Design a full relational schema
 - Write 20–30 real-world queries
